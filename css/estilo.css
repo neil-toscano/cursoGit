@@ -5,3 +5,7 @@ p{
 body{
     background-color: pink;
 }
+h1{
+    font-size: 40px;
+    background-color: cyan;
+}
